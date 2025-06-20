@@ -11,13 +11,17 @@ We will use Python with notebooks for interactive coding. Here's a quick setup g
 4) Download and try to run the test notebook present in this repository. 
 
 **Option 2 (Use Google Colab – no local installation required)**  
-You can run the notebooks directly in your browser using Google Colab. Links for the lessons will be provided soon.  
+You can run the notebooks directly in your browser using Google Colab. 
 To test it:  
 1)  Open: https://drive.google.com/file/d/10_K4Jp0o2yOrQ0lXyIyARuT8_pBSrKkq/view?usp=sharing  
 2) Sign in to your Google account if you haven’t already 
 3) Click "*Open in Colab*" at the top  
 4) Go to *File > Save a copy in Drive* to make your own editable version  
-5) Run the code cell and try editing the notebook
+5) Run the code cells and try editing the notebook
+
+## Labs
+Files and links for the lessons will be provided soon.  
+
 
 ## Acknowledgements
 The mobility data utilized in this tutorial has been sourced from:  
